@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860146836099",
+    "project_id": "crispy-login",
+    "storage_bucket": "crispy-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860146836099:android:a09197739091e3a6e371b6",
+        "android_client_info": {
+          "package_name": "com.example.crispy_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860146836099-60bk8j1ecjtqq11domhaaat6mdieuf22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9KbywPgJ1khF7-vhKFipN6nkmzvYQdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860146836099-60bk8j1ecjtqq11domhaaat6mdieuf22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
