@@ -1,6 +1,13 @@
 # crispy_good_food
 
-A new Flutter project.
+An example of simple recipe app in Flutter.
+
+# API
+I used Yummly's API. In models directory there's two different file ".api": One return a list of recipe, the other one return a list of the category.
+
+# Logo in the loading screen
+Logo sponsor: https://www.freepik.com/vectors/logo-pack
+Logo pack vector created by freepik: www.freepik.com
 
 ## Getting Started
 
