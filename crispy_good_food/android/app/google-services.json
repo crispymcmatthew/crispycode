@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569915724467",
+    "project_id": "good-food-b78ab",
+    "storage_bucket": "good-food-b78ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569915724467:android:71b6c662257cc662c556c6",
+        "android_client_info": {
+          "package_name": "com.crispymcmatthew.crispy_good_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569915724467-lku6qmhri32u9lc20scgpjt7obf1ou21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_Zh3BhMmapac_ciJdzIg_QDhQb0Khww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569915724467-lku6qmhri32u9lc20scgpjt7obf1ou21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
