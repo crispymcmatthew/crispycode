@@ -1,6 +1,8 @@
 # crispy_good_food
-
 An example of simple recipe app in Flutter.
+
+# Registration
+I used the Firebase authentication. The base plan have a max amount of users(500). If you want to try, you can use the credentials email: crispy@gmail.com, password: PswTry1234. I'll soon add other users
 
 # API
 I used Yummly's API. In models directory there's two different file ".api": One return a list of recipe, the other one return a list of the category.
