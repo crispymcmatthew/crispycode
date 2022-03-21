@@ -2,10 +2,11 @@
 An example of simple recipe app in Flutter.
 
 # Registration
-I used the Firebase authentication. The base plan have a max amount of users(500). If you want to try, you can use the credentials email: crispy@gmail.com, password: PswProva1234. I'll soon add other users
+I used the Firebase authentication.
 
 # API
 I used Yummly's API. In models directory there's two different file ".api": One return a list of recipe, the other one return a list of the category.
+link: https://rapidapi.com/apidojo/api/yummly2/
 
 # Logo in the loading screen
 Logo sponsor: https://www.freepik.com/vectors/logo-pack ,
