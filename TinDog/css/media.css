@@ -1,0 +1,25 @@
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+
+    .title-image{
+        position: static;
+        transform: rotate(0);
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px){
+    .h1, h1 {
+        font-size: 3.5rem;
+    }
+}
+
+@media (min-width: 2000px){
+
+    .title-image {
+        width: 17%;
+        right: 22%;
+    }
+}
